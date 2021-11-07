@@ -1,7 +1,7 @@
 # tfe-show-user-workspace-access
 
 Script prints which users can access which workspace:
-´´´
+```
 mkaesz@arch ~/w/tfe-show-user-workspace-access (main)> bash show-user-workspace-access.sh 
 User "mkaesz" (user-Yd9URDhs8NkeLaL6) can access workspace "hello-world-17" (ws-8L2XhtzkU9h1axps) via team "developer" (team-Mgt4CYSE1b5ttHqy).
 User "user2" (user-GxNKZVbfoQYma7xP) can access workspace "hello-world" (ws-WJEhMMeoiK9MS1xU) via team "sso" (team-ziuCJzxK67xiWKHA).
