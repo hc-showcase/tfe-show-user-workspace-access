@@ -3,7 +3,7 @@
 #set -x
 
 #At least org token needed
-TOKEN=hZRgTAa8m3fV6w.atlasv1.0QeUyKVYySQuoSTDnNWZomqPuD3kyTp23VEOgzokyUMFUJuWLfiwjLY4XxnN0ap0boI
+TOKEN=sdfsdfsdf
 ORG_NAME=mkaesz-dev
 
 # Get all workspaces
